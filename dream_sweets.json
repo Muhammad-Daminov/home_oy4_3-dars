@@ -1,0 +1,60 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "nomi": "San Sebastian",
+            "turi": "shirinlik",
+            "narxi": 35000,
+            "stok": 15
+        },
+        {
+            "id": 2,
+            "nomi": "Medovik",
+            "turi": "shirinlik",
+            "narxi": 25000,
+            "stok": 12
+        },
+        {
+            "id": 3,
+            "nomi": "Amerikano",
+            "turi": "ichimlik",
+            "narxi": 15000,
+            "stok": 20
+        },
+        {
+            "id": 4,
+            "nomi": "Kapuchino",
+            "turi": "ichimlik",
+            "narxi": 22000,
+            "stok": 15
+        },
+        {
+            "id": 5,
+            "nomi": "Klassik Moxito",
+            "turi": "ichimlik",
+            "narxi": 28000,
+            "stok": 15
+        },
+        {
+            "id": 6,
+            "nomi": "Qulupnayli Moxito",
+            "turi": "ichimlik",
+            "narxi": 30000,
+            "stok": 15
+        },
+        {
+            "id": 7,
+            "nomi": "Shokoladli muzqaymoq",
+            "turi": "shirinlik",
+            "narxi": 12000,
+            "stok": 20
+        },
+        {
+            "id": 8,
+            "nomi": "Plombir",
+            "turi": "shirinlik",
+            "narxi": 10000,
+            "stok": 23
+        }
+    ]
+}
